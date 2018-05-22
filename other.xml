@@ -1,0 +1,166 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Logging issues</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BadExceptionDeclared</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="IntelliJadConfigComponent">
+    <config>
+      <a type="boolean">false</a>
+      <af type="boolean">false</af>
+      <always-exclude-recursively type="boolean">false</always-exclude-recursively>
+      <b type="boolean">false</b>
+      <cleanup-source-roots type="boolean">true</cleanup-source-roots>
+      <clear type="boolean">false</clear>
+      <clear-and-close-console-on-success type="boolean">true</clear-and-close-console-on-success>
+      <create-output-directory type="boolean">true</create-output-directory>
+      <custom-temp-dir-path type="string" />
+      <d type="string">C:\Users\VR27091\AppData\Local\Temp\intellijad</d>
+      <dead type="boolean">false</dead>
+      <decompile-on-navigation type="string">Always</decompile-on-navigation>
+      <decompile-to-memory type="boolean">false</decompile-to-memory>
+      <dis type="boolean">false</dis>
+      <exclusion-table-model type="table-model" model-class="net.stevechaloner.intellijad.config.ExclusionTableModel" content-types="string,boolean,boolean" />
+      <f type="boolean">false</f>
+      <ff type="boolean">false</ff>
+      <forced-decompile-to-memory type="boolean">false</forced-decompile-to-memory>
+      <i type="boolean">false</i>
+      <indentation type="integer">4</indentation>
+      <jad-path type="string">C:/Victor/jad/jad.exe</jad-path>
+      <keep-decompiled-to-memory type="boolean">false</keep-decompiled-to-memory>
+      <l type="integer">64</l>
+      <lnc type="boolean">false</lnc>
+      <lradix type="integer">10</lradix>
+      <nl type="boolean">false</nl>
+      <nocast type="boolean">false</nocast>
+      <noclass type="boolean">false</noclass>
+      <nocode type="boolean">false</nocode>
+      <noconv type="boolean">false</noconv>
+      <noctor type="boolean">false</noctor>
+      <nodos type="boolean">false</nodos>
+      <nofd type="boolean">false</nofd>
+      <noinner type="boolean">false</noinner>
+      <nolvt type="boolean">false</nolvt>
+      <nonlb type="boolean">false</nonlb>
+      <o type="boolean">false</o>
+      <pa type="string" />
+      <pc type="string">_cls</pc>
+      <pe type="string">_ex</pe>
+      <pf type="string">_fld</pf>
+      <pl type="string">_lcl</pl>
+      <pm type="string">_mth</pm>
+      <pp type="string">_prm</pp>
+      <pv type="integer">3</pv>
+      <r type="boolean">false</r>
+      <radix type="integer">10</radix>
+      <read-only type="boolean">false</read-only>
+      <reformat-style type="string">Debuggable-Style</reformat-style>
+      <s type="string">java</s>
+      <safe type="boolean">false</safe>
+      <sort type="boolean">false</sort>
+      <space type="boolean">false</space>
+      <stat type="boolean">false</stat>
+      <t type="boolean">false</t>
+      <use-custom-temp-dir type="boolean">false</use-custom-temp-dir>
+      <use-project-specific-settings type="boolean">false</use-project-specific-settings>
+      <v type="boolean">false</v>
+    </config>
+  </component>
+  <component name="LastSelectedPropertiesFileStore" lastSelectedFileUrl="file://C:/git/AnalyticsFramework/AFCore/src/main/resources/log4j.properties">
+    <entry context="file://C:/git/AnalyticsFramework/AFCommon/src/main/resources" url="file://C:/git/AnalyticsFramework/AFCore/src/main/resources/log4j.properties" />
+    <entry context="file://C:/git/AnalyticsFramework/AFCommon/src/main/resources/CommonConfig.xml" url="file://C:/git/AnalyticsFramework/AFCore/src/main/resources/log4j.properties" />
+  </component>
+  <component name="PropertiesSeparatorManager">
+    <file url="file://C:/git/FailSafe/FailSafeCore/src/main/resources/log4j-fs.prod.properties" separator="\u002e" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="ENCAPSULATE_FIELDS_USE_ACCESSORS_WHEN_ACCESSIBLE" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_PARAMETER_REPLACE_FIELDS_WITH_GETTERS" value="1" />
+    <option name="EXTRACT_INTERFACE_JAVADOC" value="2" />
+    <option name="EXTRACT_SUPERCLASS_JAVADOC" value="2" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SbtSettings">
+    <option name="jdkHome" value="" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://svn.mhutils.com:8443/svn/WebDev/NewMatching/trunk" />
+        <option value="https://svn.myheritage.co.il:8443/svn/WebDev/" />
+        <option value="https://svn.myheritage.co.il:8443/svn/WebDev/Java/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://svn.mhutils.com:8443/svn/WebDev/NewMatching/trunk" />
+        <option value="https://svn.myheritage.co.il:8443/svn/WebDev/" />
+        <option value="https://svn.myheritage.co.il:8443/svn/WebDev/Java/" />
+        <option value="https://svn.myheritage.co.il:8443/sv/WebDev/Java/" />
+      </list>
+    </option>
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://fxagtsqpr01.eur.nsroot.net:80&amp;^%$#@vr27091@#$%^&amp;http://fxagtsqpr01.eur.nsroot.net:8070&amp;^%$#@vr27091@#$%^&amp;http://ci.tlv.eur.nsroot.net:8070&amp;^%$#@vr27091@#$%^&amp;http://fxagtsqpr01.eur.nsroot.net:8080&amp;^%$#@vr27091@#$%^&amp;http://fxagtsqpr01.eur.nsroot.net&amp;^%$#@vr27091" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces" HIGHLIGHT_MODE="BY_WORD" />
+</application>

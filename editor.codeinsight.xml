@@ -1,0 +1,16 @@
+<application>
+  <component name="AdvancedExpressionFoldingSettings">
+    <option name="VAR_EXPRESSIONS" value="false" />
+  </component>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="com.espertech.esper.client.scopetest" />
+    <EXCLUDED_PACKAGE NAME="com.sun" />
+    <EXCLUDED_PACKAGE NAME="de.flapdoodle.embed" />
+    <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
+    <EXCLUDED_PACKAGE NAME="junit.framework" />
+    <EXCLUDED_PACKAGE NAME="org.apache.xmlbeans" />
+  </component>
+</application>
