@@ -742,10 +742,6 @@
       </dailyData>
     </factor>
     <factor id="completionFinishedType">
-      <dailyData date="24-5-2018">
-        <observation name="cancelled" value="24.0" />
-        <observation name="explicitSelect" value="1.0" />
-      </dailyData>
       <dailyData date="27-5-2018">
         <observation name="cancelled" value="173.0" />
         <observation name="explicitSelect" value="53.0" />
@@ -788,11 +784,11 @@
         <observation name="explicitSelect" value="226.0" />
         <observation name="typedSelect" value="125.0" />
       </dailyData>
+      <dailyData date="19-6-2018">
+        <observation name="cancelled" value="12.0" />
+      </dailyData>
     </factor>
     <factor id="completionType">
-      <dailyData date="23-5-2018">
-        <observation name="BASIC" value="16.0" />
-      </dailyData>
       <dailyData date="24-5-2018">
         <observation name="BASIC" value="1.0" />
       </dailyData>
@@ -823,11 +819,11 @@
         <observation name="BASIC" value="502.0" />
         <observation name="SMART" value="7.0" />
       </dailyData>
+      <dailyData date="19-6-2018">
+        <observation name="BASIC" value="3.0" />
+      </dailyData>
     </factor>
     <factor id="completionUsage">
-      <dailyData date="24-5-2018">
-        <observation name="count" value="25.0" />
-      </dailyData>
       <dailyData date="27-5-2018">
         <observation name="count" value="234.0" />
       </dailyData>
@@ -854,6 +850,9 @@
       </dailyData>
       <dailyData date="18-6-2018">
         <observation name="count" value="912.0" />
+      </dailyData>
+      <dailyData date="19-6-2018">
+        <observation name="count" value="12.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -2415,10 +2414,6 @@
       </dailyData>
     </factor>
     <factor id="timeBetweenTyping">
-      <dailyData date="23-5-2018">
-        <observation name="average" value="510.863636" />
-        <observation name="count" value="22.0" />
-      </dailyData>
       <dailyData date="27-5-2018">
         <observation name="average" value="211.675159" />
         <observation name="count" value="157.0" />
@@ -2454,6 +2449,10 @@
       <dailyData date="18-6-2018">
         <observation name="average" value="244.329885" />
         <observation name="count" value="870.0" />
+      </dailyData>
+      <dailyData date="19-6-2018">
+        <observation name="average" value="212.0" />
+        <observation name="count" value="15.0" />
       </dailyData>
     </factor>
   </component>
