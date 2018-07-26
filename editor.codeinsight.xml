@@ -6,6 +6,7 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="TAB_EXITS_BRACKETS_AND_QUOTES" value="true" />
     <EXCLUDED_PACKAGE NAME="com.espertech.esper.client.scopetest" />
     <EXCLUDED_PACKAGE NAME="com.sun" />
     <EXCLUDED_PACKAGE NAME="de.flapdoodle.embed" />
