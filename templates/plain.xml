@@ -1,0 +1,7 @@
+<templateSet group="plain">
+  <template name="dataprovider" value="    @DataProvider&#10;    public static Object[][] dataProviderTest() {&#10;        return new Object[][]{&#10;            {&#10;                &#10;            },&#10;        };&#10;    }&#10;        " toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
