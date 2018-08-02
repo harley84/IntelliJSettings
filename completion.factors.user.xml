@@ -1210,7 +1210,7 @@
         <observation name="typedSelect" value="60.0" />
       </dailyData>
       <dailyData date="02-08-2018">
-        <observation name="cancelled" value="406.0" />
+        <observation name="cancelled" value="408.0" />
         <observation name="explicitSelect" value="138.0" />
         <observation name="typedSelect" value="38.0" />
       </dailyData>
@@ -1251,7 +1251,7 @@
         <observation name="SMART" value="9.0" />
       </dailyData>
       <dailyData date="02-08-2018">
-        <observation name="BASIC" value="215.0" />
+        <observation name="BASIC" value="216.0" />
         <observation name="SMART" value="18.0" />
       </dailyData>
     </factor>
@@ -1284,7 +1284,7 @@
         <observation name="count" value="1144.0" />
       </dailyData>
       <dailyData date="02-08-2018">
-        <observation name="count" value="582.0" />
+        <observation name="count" value="584.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -2957,8 +2957,8 @@
         <observation name="count" value="580.0" />
       </dailyData>
       <dailyData date="02-08-2018">
-        <observation name="average" value="202.986637" />
-        <observation name="count" value="449.0" />
+        <observation name="average" value="202.512195" />
+        <observation name="count" value="451.0" />
       </dailyData>
     </factor>
   </component>
