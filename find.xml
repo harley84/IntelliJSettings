@@ -17,5 +17,6 @@
     <mask>Application.java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.avsc</mask>
   </component>
 </application>
