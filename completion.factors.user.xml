@@ -1139,9 +1139,6 @@
       </dailyData>
     </factor>
     <factor id="completionFinishedType">
-      <dailyData date="10-08-2018">
-        <observation name="cancelled" value="153.0" />
-      </dailyData>
       <dailyData date="12-08-2018">
         <observation name="cancelled" value="555.0" />
         <observation name="explicitSelect" value="30.0" />
@@ -1186,6 +1183,9 @@
         <observation name="explicitSelect" value="11.0" />
         <observation name="typedSelect" value="3.0" />
       </dailyData>
+      <dailyData date="23-08-2018">
+        <observation name="cancelled" value="98.0" />
+      </dailyData>
     </factor>
     <factor id="completionType">
       <dailyData date="09-08-2018">
@@ -1229,9 +1229,6 @@
       </dailyData>
     </factor>
     <factor id="completionUsage">
-      <dailyData date="10-08-2018">
-        <observation name="count" value="153.0" />
-      </dailyData>
       <dailyData date="12-08-2018">
         <observation name="count" value="592.0" />
       </dailyData>
@@ -1258,6 +1255,9 @@
       </dailyData>
       <dailyData date="22-08-2018">
         <observation name="count" value="110.0" />
+      </dailyData>
+      <dailyData date="23-08-2018">
+        <observation name="count" value="98.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
