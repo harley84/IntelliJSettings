@@ -1,8 +1,0 @@
-<application>
-  <component name="LanguageInjectionConfiguration">
-    <injection language="JSON" injector-id="java">
-      <display-name>ImmutableList.of (com.google.common.collect)</display-name>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("of").withParameters("java.lang.Object").definedInClass("com.google.common.collect.ImmutableList"))]]></place>
-    </injection>
-  </component>
-</application>
