@@ -1157,7 +1157,8 @@
         <observation name="typedSelect" value="21.0" />
       </dailyData>
       <dailyData date="06-10-2018">
-        <observation name="cancelled" value="1.0" />
+        <observation name="cancelled" value="4.0" />
+        <observation name="explicitSelect" value="1.0" />
       </dailyData>
     </factor>
     <factor id="completionType">
@@ -1196,7 +1197,7 @@
         <observation name="SMART" value="6.0" />
       </dailyData>
       <dailyData date="06-10-2018">
-        <observation name="BASIC" value="1.0" />
+        <observation name="BASIC" value="3.0" />
       </dailyData>
     </factor>
     <factor id="completionUsage">
@@ -1228,7 +1229,7 @@
         <observation name="count" value="903.0" />
       </dailyData>
       <dailyData date="06-10-2018">
-        <observation name="count" value="1.0" />
+        <observation name="count" value="5.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -2643,10 +2644,6 @@
       </dailyData>
     </factor>
     <factor id="itemPosition">
-      <dailyData date="03-09-2018">
-        <observation name="0" value="2.0" />
-        <observation name="1" value="1.0" />
-      </dailyData>
       <dailyData date="04-09-2018">
         <observation name="0" value="4.0" />
         <observation name="1" value="2.0" />
@@ -2703,6 +2700,9 @@
         <observation name="3" value="1.0" />
         <observation name="7" value="1.0" />
       </dailyData>
+      <dailyData date="06-10-2018">
+        <observation name="0" value="1.0" />
+      </dailyData>
     </factor>
     <factor id="mnemonicsUsage">
       <dailyData date="03-09-2018">
@@ -2747,11 +2747,6 @@
       </dailyData>
     </factor>
     <factor id="prefixLength">
-      <dailyData date="03-09-2018">
-        <observation name="13" value="1.0" />
-        <observation name="16" value="1.0" />
-        <observation name="2" value="1.0" />
-      </dailyData>
       <dailyData date="04-09-2018">
         <observation name="0" value="3.0" />
         <observation name="2" value="2.0" />
@@ -2847,6 +2842,9 @@
         <observation name="7" value="4.0" />
         <observation name="8" value="2.0" />
         <observation name="9" value="2.0" />
+      </dailyData>
+      <dailyData date="06-10-2018">
+        <observation name="0" value="1.0" />
       </dailyData>
     </factor>
     <factor id="timeBetweenTyping">
