@@ -1160,7 +1160,7 @@
         <observation name="explicitSelect" value="3.0" />
       </dailyData>
       <dailyData date="07-10-2018">
-        <observation name="cancelled" value="267.0" />
+        <observation name="cancelled" value="268.0" />
         <observation name="explicitSelect" value="5.0" />
         <observation name="typedSelect" value="1.0" />
       </dailyData>
