@@ -28,6 +28,9 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute.Selection">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="Console.TableResult.AddRow" />
   <action id="Console.TableResult.SetNull" />
   <action id="CopyReference">
@@ -214,6 +217,9 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="meta comma" />
     <keyboard-shortcut first-keystroke="shift ctrl meta s" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="SwitchDown">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
