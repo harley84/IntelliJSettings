@@ -5,6 +5,7 @@
     <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
     <notification groupId="Outdated Kotlin Runtime" displayType="NONE" />
     <notification groupId="Scala" displayType="NONE" />
+    <notification groupId="System Messages" displayType="NONE" />
     <notification groupId="TeamCity.PersonalBuildFailed" displayType="STICKY_BALLOON" />
     <notification groupId="TeamCity.PersonalBuildStarted" displayType="STICKY_BALLOON" />
     <notification groupId="TeamCity.Silent" displayType="NONE" />
