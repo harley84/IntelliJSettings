@@ -27,5 +27,6 @@
     <mask>*.java</mask>
     <mask>*.story</mask>
     <mask>*teps.java</mask>
+    <mask>*docker*</mask>
   </component>
 </application>
