@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sh" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,7 +19,6 @@
     <mask>*.avsc</mask>
     <mask>*.xml</mask>
     <mask>*repo*.java</mask>
-    <mask>*.sh</mask>
     <mask>*epos*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.json</mask>
@@ -29,5 +29,6 @@
     <mask>*teps.java</mask>
     <mask>*docker*</mask>
     <mask>*story*</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
