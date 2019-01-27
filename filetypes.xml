@@ -7,6 +7,7 @@
       <mapping pattern="DnaKitTransitioned.avsc" type="PLAIN_TEXT" />
       <mapping pattern="sysconfig" type="PLAIN_TEXT" />
       <mapping pattern="aws_public_key" type="PLAIN_TEXT" />
+      <mapping pattern="instance_doc" type="PLAIN_TEXT" />
       <mapping ext="init" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
