@@ -9,6 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="Application.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,7 +17,6 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>Application.java</mask>
     <mask>*.avsc</mask>
     <mask>*.xml</mask>
     <mask>*repo*.java</mask>
@@ -31,5 +31,6 @@
     <mask>*docker*</mask>
     <mask>*story*</mask>
     <mask>*.sh</mask>
+    <mask>Application.java</mask>
   </component>
 </application>
