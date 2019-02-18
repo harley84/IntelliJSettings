@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,7 +20,6 @@
     <mask>*repo*.java</mask>
     <mask>*epos*.java</mask>
     <mask>pom.xml</mask>
-    <mask>*.json</mask>
     <mask>mesos.json</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
@@ -29,5 +29,6 @@
     <mask>*story*</mask>
     <mask>*.sh</mask>
     <mask>Application.java</mask>
+    <mask>*.json</mask>
   </component>
 </application>
