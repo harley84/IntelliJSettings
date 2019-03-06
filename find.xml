@@ -12,7 +12,6 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.avsc</mask>
     <mask>*.xml</mask>
     <mask>*repo*.java</mask>
     <mask>*epos*.java</mask>
@@ -27,5 +26,6 @@
     <mask>*.sh</mask>
     <mask>Application.java</mask>
     <mask>*.json</mask>
+    <mask>*.avsc</mask>
   </component>
 </application>
