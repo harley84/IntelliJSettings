@@ -1,6 +1,6 @@
 <application>
   <component name="CustomPostfixTemplatesApplicationSettings">
-    <CptPluginSettings SettingsVersion="2">
+    <CptPluginSettings UpdateWebTemplatesAutomatically="false" SettingsVersion="2">
       <option name="langName2virtualFiles">
         <map>
           <entry key="go">
@@ -48,6 +48,24 @@
           <entry key="java">
             <value>
               <list>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="cassiuscai.assertj-core" />
+                  <option name="url" value="https://raw.githubusercontent.com/cassiuscai/postfix-templates/master/templates/assertj-core.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}/java/cassiuscai.assertj-core.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="cassiuscai.mockito" />
+                  <option name="url" value="https://raw.githubusercontent.com/cassiuscai/postfix-templates/master/templates/mockito.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}/java/cassiuscai.mockito.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="cassiuscai.guava-string" />
+                  <option name="url" value="https://raw.githubusercontent.com/cassiuscai/postfix-templates/master/templates/guava-string.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}/java/cassiuscai.guava-string.postfixTemplates" />
+                </VFile>
                 <VFile>
                   <option name="enabled" value="true" />
                   <option name="id" value="xylo.LazySeq" />
