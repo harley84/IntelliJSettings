@@ -3,5 +3,6 @@
     <ignoreAction name="Control Flow/Remove Braces" />
     <ignoreAction name="JUnit/Replace assertTrue, assertFalse, or assertNull with assertEquals" />
     <ignoreAction name="Java/I18N/Replace Concatenation with Formatted Output" />
+    <ignoreAction name="Java/Concurrency/Convert to ThreadLocal" />
   </component>
 </application>
