@@ -7,5 +7,10 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Debugger.StepOutOfBlock" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Debug Tool Window Top Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
   </component>
 </application>
