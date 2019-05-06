@@ -18,8 +18,4 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$" />
   </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Google Drive" />
-    <option name="DETECT_PATCH_ON_THE_FLY" value="true" />
-  </component>
 </application>
