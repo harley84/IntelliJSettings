@@ -1,0 +1,15 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
+    <notification groupId="Outdated Kotlin Runtime" displayType="NONE" />
+    <notification groupId="Scala" displayType="NONE" />
+    <notification groupId="System Messages" displayType="NONE" />
+    <notification groupId="TeamCity.PersonalBuildFailed" displayType="STICKY_BALLOON" />
+    <notification groupId="TeamCity.PersonalBuildStarted" displayType="STICKY_BALLOON" />
+    <notification groupId="TeamCity.Silent" displayType="NONE" />
+    <notification groupId="Unindexed maven repositories gradle detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Vcs Notifications" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
