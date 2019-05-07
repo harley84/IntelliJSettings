@@ -14,9 +14,13 @@
           <option name="url" value="https://github.com/Java-Events/20181118_JUG_TelAviv_functional_reactive_refactoring_app" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@bitbucket.iloffice.myhrtg.net:7999/dna/omni_health.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$" />
+    <option name="cloneParentDir" value="/Volumes/mhdev/working-copies/Python/dna" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Google Drive" />
