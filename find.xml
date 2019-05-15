@@ -5,7 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,7 +17,6 @@
     <mask>*epos*.java</mask>
     <mask>pom.xml</mask>
     <mask>mesos.json</mask>
-    <mask>*.java</mask>
     <mask>*.story</mask>
     <mask>*teps.java</mask>
     <mask>*docker*</mask>
@@ -31,5 +30,6 @@
     <mask>*eposit*.java</mask>
     <mask>*.avsc</mask>
     <mask>*.py</mask>
+    <mask>*.java</mask>
   </component>
 </application>
