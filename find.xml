@@ -16,7 +16,6 @@
     <mask>*epos*.java</mask>
     <mask>pom.xml</mask>
     <mask>mesos.json</mask>
-    <mask>*.java</mask>
     <mask>*.story</mask>
     <mask>*teps.java</mask>
     <mask>*docker*</mask>
@@ -29,5 +28,7 @@
     <mask>*.*</mask>
     <mask>*eposit*.java</mask>
     <mask>*.avsc</mask>
+    <mask>*.java</mask>
+    <mask>*.py</mask>
   </component>
 </application>
