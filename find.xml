@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Coordinator" />
+    <option name="defaultScopeName" value="Coordinator" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Coordinator" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,7 +23,6 @@
     <mask>*story*</mask>
     <mask>*.sh</mask>
     <mask>Application.java</mask>
-    <mask>*.json</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
@@ -30,5 +30,6 @@
     <mask>*.avsc</mask>
     <mask>*.java</mask>
     <mask>*.py</mask>
+    <mask>*.json</mask>
   </component>
 </application>
