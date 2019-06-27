@@ -178,12 +178,17 @@
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="meta alt v" />
     <keyboard-shortcut first-keystroke="ctrl meta v" />
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
   <action id="MethodHierarchy" />
   <action id="NewElement" />
   <action id="NewScratchFile" />
   <action id="NextEditorTab" />
   <action id="NextTab" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
   <action id="QuickChangeScheme" />
