@@ -226,6 +226,7 @@
   <action id="SelectNextOccurrence" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="meta comma" />
