@@ -223,7 +223,12 @@
     <keyboard-shortcut first-keystroke="meta s" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="meta f1" />
+  </action>
   <action id="SelectNextOccurrence" />
+  <action id="ShowErrorDescription" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
