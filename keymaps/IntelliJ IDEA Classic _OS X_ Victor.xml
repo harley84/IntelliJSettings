@@ -20,6 +20,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />
     <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl meta h" />
@@ -33,6 +34,7 @@
   <action id="CopyReference">
     <keyboard-shortcut first-keystroke="shift ctrl meta c" />
   </action>
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="meta d" />
     <keyboard-shortcut first-keystroke="alt d" />
@@ -59,6 +61,10 @@
     <keyboard-shortcut first-keystroke="shift meta enter" />
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="alt delete" />
+    <keyboard-shortcut first-keystroke="ctrl delete" />
+  </action>
   <action id="EditorDeleteToWordStart">
     <keyboard-shortcut first-keystroke="alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl back_space" />
@@ -72,16 +78,8 @@
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
   </action>
-  <action id="EditorNextWord">
-    <keyboard-shortcut first-keystroke="ctrl right" />
-    <keyboard-shortcut first-keystroke="meta right" />
-  </action>
   <action id="EditorNextWordWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl right" />
-  </action>
-  <action id="EditorPreviousWord">
-    <keyboard-shortcut first-keystroke="ctrl left" />
-    <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="EditorPreviousWordWithSelection">
     <keyboard-shortcut first-keystroke="shift alt left" />
@@ -96,6 +94,8 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="meta f8" />
   </action>
@@ -103,6 +103,7 @@
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="meta alt m" />
     <keyboard-shortcut first-keystroke="ctrl meta m" />
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
   </action>
   <action id="FileChooser.NewFolder" />
   <action id="FileStructurePopup">
@@ -125,6 +126,7 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl meta right" />
     <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta help" />
@@ -141,6 +143,7 @@
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
@@ -162,6 +165,7 @@
   <action id="Inline">
     <keyboard-shortcut first-keystroke="meta alt n" />
     <keyboard-shortcut first-keystroke="ctrl meta n" />
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
   <action id="IntroduceField">
     <keyboard-shortcut first-keystroke="meta alt f" />
@@ -174,12 +178,22 @@
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="meta alt v" />
     <keyboard-shortcut first-keystroke="ctrl meta v" />
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
   <action id="MethodHierarchy" />
   <action id="NewElement" />
+  <action id="NewElementSamePlace" />
   <action id="NewScratchFile" />
   <action id="NextEditorTab" />
   <action id="NextTab" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="meta p" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
   <action id="QuickChangeScheme" />
@@ -200,16 +214,24 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="RemoteHost.NewRemoteItem" />
   <action id="RunJsbtTask" />
+  <action id="SafeDelete" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="meta f1" />
+  </action>
   <action id="SelectNextOccurrence" />
+  <action id="ShowErrorDescription" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="meta comma" />
@@ -217,12 +239,6 @@
   </action>
   <action id="SwitchDown">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
-  <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-  </action>
-  <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />

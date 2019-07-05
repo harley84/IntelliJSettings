@@ -27,8 +27,8 @@
     <mask>*.*</mask>
     <mask>*eposit*.java</mask>
     <mask>*.avsc</mask>
-    <mask>*.java</mask>
     <mask>*.py</mask>
     <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
