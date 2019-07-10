@@ -3,6 +3,7 @@
     <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <option name="AUTO_VARIABLES_MODE" value="true" />
+    <option name="EVALUATE_FINALLY_ON_POP_FRAME" value="EvaluateFinallyAlways" />
   </component>
   <component name="NodeRendererSettings">
     <Renderer ID="ClassRenderer">
