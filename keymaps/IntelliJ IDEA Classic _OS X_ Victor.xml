@@ -30,6 +30,10 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="Compile">
+    <keyboard-shortcut first-keystroke="shift meta f9" />
+    <keyboard-shortcut first-keystroke="ctrl meta f9" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.AddRow" />
   <action id="Console.TableResult.SetNull" />
