@@ -216,6 +216,7 @@
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta alt o" />
     <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="meta p" />
