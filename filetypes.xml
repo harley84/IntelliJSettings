@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gz" type="ARCHIVE" />
       <mapping pattern="DnaKitTransitioned.avsc" type="PLAIN_TEXT" />
       <mapping pattern="aws_public_key" type="PLAIN_TEXT" />
       <mapping pattern="sysconfig" type="PLAIN_TEXT" />
