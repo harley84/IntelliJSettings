@@ -5,7 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java*" />
+    <option name="FILE_MASK" value="*.sh" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -20,7 +20,6 @@
     <mask>*teps.java</mask>
     <mask>*docker*</mask>
     <mask>*story*</mask>
-    <mask>*.sh</mask>
     <mask>Application.java</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
@@ -33,5 +32,6 @@
     <mask>*.java</mask>
     <mask>*.prop*</mask>
     <mask>*.java*</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
