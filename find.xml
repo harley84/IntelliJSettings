@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -27,7 +28,6 @@
     <mask>*eposit*.java</mask>
     <mask>*.avsc</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.prop*</mask>
     <mask>*.java*</mask>
     <mask>*.py</mask>
@@ -35,5 +35,6 @@
     <mask>*.yml</mask>
     <mask>*.sh</mask>
     <mask>*repos*</mask>
+    <mask>*.java</mask>
   </component>
 </application>
