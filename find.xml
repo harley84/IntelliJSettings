@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -31,9 +32,9 @@
     <mask>*.java*</mask>
     <mask>*.py</mask>
     <mask>*.xml</mask>
-    <mask>*.yml</mask>
     <mask>*repos*</mask>
     <mask>*.java</mask>
     <mask>*.sh</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
