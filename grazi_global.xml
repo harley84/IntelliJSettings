@@ -4,6 +4,7 @@
     <option name="enabledCommitIntegration" value="true" />
     <option name="userDisabledRules">
       <set>
+        <option value="ARTICLE_MISSING" />
         <option value="COMMA_WHICH" />
         <option value="PASSIVE_VOICE" />
       </set>
