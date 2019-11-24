@@ -9,6 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.avsc" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -27,7 +28,6 @@
     <mask>*.json</mask>
     <mask>*.*</mask>
     <mask>*eposit*.java</mask>
-    <mask>*.avsc</mask>
     <mask>*.properties</mask>
     <mask>*.prop*</mask>
     <mask>*.java*</mask>
@@ -37,5 +37,6 @@
     <mask>*.sh</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.avsc</mask>
   </component>
 </application>
