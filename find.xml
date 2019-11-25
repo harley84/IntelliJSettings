@@ -9,8 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
+    <option name="FILE_MASK" value="!*.java" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -39,5 +38,7 @@
     <mask>*yml</mask>
     <mask>*App*</mask>
     <mask>*.avsc</mask>
+    <mask>*</mask>
+    <mask>!*.java</mask>
   </component>
 </application>
