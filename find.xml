@@ -25,7 +25,6 @@
     <mask>*.prop*</mask>
     <mask>*.java*</mask>
     <mask>*.py</mask>
-    <mask>*.xml</mask>
     <mask>*repos*</mask>
     <mask>*yml</mask>
     <mask>*App*</mask>
@@ -37,5 +36,6 @@
     <mask>*.sh</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
