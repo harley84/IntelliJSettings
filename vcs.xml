@@ -23,6 +23,7 @@
     <option name="cloneParentDir" value="/Volumes/mhdev/working-copies/Python/dna" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
