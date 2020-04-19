@@ -7,7 +7,6 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -27,7 +26,6 @@
     <mask>*repos*</mask>
     <mask>*yml</mask>
     <mask>*App*</mask>
-    <mask>*.avsc</mask>
     <mask>*</mask>
     <mask>!*.java</mask>
     <mask>*.py</mask>
@@ -37,5 +35,7 @@
     <mask>*.sh</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>avsc</mask>
+    <mask>*.avsc</mask>
   </component>
 </application>
