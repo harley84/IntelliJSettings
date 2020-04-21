@@ -7,7 +7,6 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*repo*.java</mask>
@@ -37,5 +36,6 @@
     <mask>avsc</mask>
     <mask>*.avsc</mask>
     <mask>*.java</mask>
+    <mask>*oller*.java</mask>
   </component>
 </application>
