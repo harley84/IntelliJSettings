@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*repo*.java</mask>
@@ -27,7 +28,6 @@
     <mask>*App*</mask>
     <mask>*</mask>
     <mask>!*.java</mask>
-    <mask>*.py</mask>
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
     <mask>*.properties</mask>
@@ -37,5 +37,6 @@
     <mask>*.avsc</mask>
     <mask>*.java</mask>
     <mask>*oller*.java</mask>
+    <mask>*.py</mask>
   </component>
 </application>
