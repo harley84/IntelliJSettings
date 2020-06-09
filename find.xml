@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*epos*.java</mask>
     <mask>mesos.json</mask>
     <mask>*.story</mask>
@@ -23,7 +24,6 @@
     <mask>*yml</mask>
     <mask>*App*</mask>
     <mask>*</mask>
-    <mask>pom.xml</mask>
     <mask>*.yml</mask>
     <mask>*.sh</mask>
     <mask>*.xml</mask>
@@ -37,5 +37,6 @@
     <mask>*.py</mask>
     <mask>*epos*</mask>
     <mask>*ontroller*</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
