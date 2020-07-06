@@ -25,7 +25,6 @@
     <mask>*yml</mask>
     <mask>*App*</mask>
     <mask>*</mask>
-    <mask>*.yml</mask>
     <mask>*.sh</mask>
     <mask>*.xml</mask>
     <mask>avsc</mask>
@@ -39,5 +38,6 @@
     <mask>*ontroller*</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
