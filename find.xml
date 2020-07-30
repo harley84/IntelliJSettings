@@ -28,14 +28,14 @@
     <mask>*.avsc</mask>
     <mask>*oller*.java</mask>
     <mask>*.propert</mask>
-    <mask>*.properties</mask>
     <mask>!*.java</mask>
     <mask>*.py</mask>
     <mask>*epos*</mask>
     <mask>*ontroller*</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
-    <mask>*.yml</mask>
     <mask>*.xml</mask>
+    <mask>*.yml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
