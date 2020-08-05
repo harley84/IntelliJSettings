@@ -6,8 +6,8 @@
       <mapping ext="avsc" type="JSON" />
       <mapping pattern="instance_doc" type="PLAIN_TEXT" />
       <mapping pattern="docker_build_env" type="PLAIN_TEXT" />
-      <mapping pattern="pkcs7_signature" type="PLAIN_TEXT" />
       <mapping pattern="sysconfig" type="PLAIN_TEXT" />
+      <mapping pattern="pkcs7_signature" type="PLAIN_TEXT" />
       <mapping pattern="aws_public_key" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
