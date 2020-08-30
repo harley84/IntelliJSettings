@@ -4,6 +4,8 @@
       <mapping ext="gz" type="ARCHIVE" />
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping ext="avsc" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="xadtest" type="PLAIN_TEXT" />
       <mapping pattern="instance_doc" type="PLAIN_TEXT" />
       <mapping pattern="xactest" type="PLAIN_TEXT" />
