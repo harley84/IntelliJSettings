@@ -9,8 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java" />
-    <mask>mesos.json</mask>
+    <option name="FILE_MASK" value="*.docker" />
     <mask>*.story</mask>
     <mask>*teps.java</mask>
     <mask>*docker*</mask>
@@ -38,7 +37,8 @@
     <mask>*.yaml</mask>
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
+    <mask>*.docker</mask>
   </component>
 </application>
