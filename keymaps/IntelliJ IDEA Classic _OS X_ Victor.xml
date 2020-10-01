@@ -247,6 +247,10 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift meta alt t" />
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
     <keyboard-shortcut first-keystroke="ctrl alt l" />
