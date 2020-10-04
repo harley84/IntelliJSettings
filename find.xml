@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*teps.java</mask>
+    <option name="FILE_MASK" value=".*" />
     <mask>*docker*</mask>
     <mask>*story*</mask>
     <mask>Application.java</mask>
@@ -37,5 +37,6 @@
     <mask>*.avsc</mask>
     <mask>*.java</mask>
     <mask>*epository.java</mask>
+    <mask>.*</mask>
   </component>
 </application>
