@@ -34,8 +34,8 @@
     <mask>*.docker</mask>
     <mask>*.yml</mask>
     <mask>*.avsc</mask>
-    <mask>*.java</mask>
     <mask>*epository.java</mask>
     <mask>.*</mask>
+    <mask>*.java</mask>
   </component>
 </application>
