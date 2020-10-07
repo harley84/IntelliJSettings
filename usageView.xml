@@ -1,6 +1,5 @@
 <application>
   <component name="ShowUsagesSettings">
-    <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
     <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.7057869" />
   </component>
   <component name="UsageViewSettings">
