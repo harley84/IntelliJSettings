@@ -3,7 +3,7 @@
     <property name="created">2020-08-24T17:40:14</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-08-25T17:30:51</property>
+    <property name="modified">2020-10-07T17:45:15</property>
     <property name="originalScheme">Darcula</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -18,6 +18,11 @@
       <value>
         <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="bdffff" />
       </value>
     </option>
   </attributes>
