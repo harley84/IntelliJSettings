@@ -17,6 +17,7 @@
       <mapping pattern="aws_public_key" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="raw" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="dsl" type="PLAIN_TEXT" />
       <mapping ext="init" type="PLAIN_TEXT" />
