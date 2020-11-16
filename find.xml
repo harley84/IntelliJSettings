@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*docker*</mask>
+    <option name="FILE_MASK" value="*repositor*.java" />
     <mask>*story*</mask>
     <mask>Application.java</mask>
     <mask>*.json</mask>
@@ -37,5 +37,6 @@
     <mask>*epository.java</mask>
     <mask>.*</mask>
     <mask>*.java</mask>
+    <mask>*repositor*.java</mask>
   </component>
 </application>
