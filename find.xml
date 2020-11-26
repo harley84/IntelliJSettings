@@ -7,7 +7,6 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>Application.java</mask>
     <mask>*.json</mask>
     <mask>*.*</mask>
     <mask>*eposit*.java</mask>
@@ -37,5 +36,6 @@
     <mask>*repositor*.java</mask>
     <mask>*.java</mask>
     <mask>!*.yml</mask>
+    <mask>*.jav</mask>
   </component>
 </application>
