@@ -29,6 +29,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="spec" approved="true" type="RPM SPEC" />
       <removed_mapping pattern="DnaKitTransitioned.avsc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="DockerfileDebugOpenj9" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
