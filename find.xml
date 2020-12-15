@@ -9,7 +9,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.*</mask>
     <mask>*eposit*.java</mask>
-    <mask>*.prop*</mask>
     <mask>*.java*</mask>
     <mask>*repos*</mask>
     <mask>*yml</mask>
@@ -20,7 +19,6 @@
     <mask>*oller*.java</mask>
     <mask>*.propert</mask>
     <mask>!*.java</mask>
-    <mask>*.py</mask>
     <mask>*epos*</mask>
     <mask>*ontroller*</mask>
     <mask>*.properties</mask>
@@ -37,5 +35,7 @@
     <mask>!*.yml</mask>
     <mask>*.jav</mask>
     <mask>*ontrol*</mask>
+    <mask>*.py</mask>
+    <mask>*.prop*</mask>
   </component>
 </application>

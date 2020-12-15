@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="gz" type="ARCHIVE" />
       <mapping ext="avsc" type="JSON" />
@@ -8,12 +8,12 @@
       <mapping pattern="xadtest" type="PLAIN_TEXT" />
       <mapping pattern="instance_doc" type="PLAIN_TEXT" />
       <mapping pattern="xactest" type="PLAIN_TEXT" />
-      <mapping pattern="docker_build_env" type="PLAIN_TEXT" />
       <mapping pattern="xaatest" type="PLAIN_TEXT" />
-      <mapping pattern="ethnicities" type="PLAIN_TEXT" />
       <mapping pattern="pkcs7_signature" type="PLAIN_TEXT" />
       <mapping pattern="sysconfig" type="PLAIN_TEXT" />
       <mapping pattern="xabtest" type="PLAIN_TEXT" />
+      <mapping pattern="docker_build_env" type="PLAIN_TEXT" />
+      <mapping pattern="ethnicities" type="PLAIN_TEXT" />
       <mapping pattern="aws_public_key" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
@@ -22,18 +22,16 @@
       <mapping ext="dsl" type="PLAIN_TEXT" />
       <mapping ext="init" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="DockerfileDebugOpenj9" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="DnaKitTransitioned.avsc" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="avsc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="spec" approved="true" type="RPM SPEC" />
+      <removed_mapping pattern="DnaKitTransitioned.avsc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="DockerfileDebugOpenj9" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
