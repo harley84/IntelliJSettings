@@ -20,7 +20,6 @@
     <mask>!*.java</mask>
     <mask>*epos*</mask>
     <mask>*ontroller*</mask>
-    <mask>*.properties</mask>
     <mask>*.yaml</mask>
     <mask>*.docker</mask>
     <mask>*.avsc</mask>
@@ -37,5 +36,6 @@
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
