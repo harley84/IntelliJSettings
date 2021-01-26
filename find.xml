@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.*</mask>
+    <option name="FILE_MASK" value="*compose*" />
     <mask>*eposit*.java</mask>
     <mask>*.java*</mask>
     <mask>*repos*</mask>
@@ -37,5 +37,6 @@
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
     <mask>*.properties</mask>
+    <mask>*compose*</mask>
   </component>
 </application>
