@@ -9,6 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sh" />
     <mask>*eposit*.java</mask>
     <mask>*.java*</mask>
     <mask>*repos*</mask>
@@ -32,12 +33,12 @@
     <mask>*ontrol*</mask>
     <mask>*.py</mask>
     <mask>*.prop*</mask>
-    <mask>*.sh</mask>
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
     <mask>*.properties</mask>
     <mask>*compose*</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
