@@ -803,8 +803,8 @@
         <entry key="*.spec">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.thoughtworks.gauge" />
-              <option name="myPluginName" value="Gauge" />
+              <option name="myPluginId" value="com.carbonblack.intellij.rpmspec" />
+              <option name="myPluginName" value="RPM SPEC File" />
             </plugin>
           </value>
         </entry>
@@ -1164,6 +1164,11 @@
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
+                    </value>
+                  </entry>
+                  <entry key="Codeforces">
+                    <value>
+                      <FeaturePluginData displayName="Codeforces" pluginName="EduTools" pluginId="com.jetbrains.edu" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
