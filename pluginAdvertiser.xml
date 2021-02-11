@@ -803,8 +803,8 @@
         <entry key="*.spec">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.carbonblack.intellij.rpmspec" />
-              <option name="myPluginName" value="RPM SPEC File" />
+              <option name="myPluginId" value="com.thoughtworks.gauge" />
+              <option name="myPluginName" value="Gauge" />
             </plugin>
           </value>
         </entry>
